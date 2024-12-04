@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ivIOUK85+vX+Kj+fK8NEfNV7q/vuiRJy+glKK/rbrQs=",
+  "Source": "SonarQube",
+  "BasePath": "_content/SonarQube",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
